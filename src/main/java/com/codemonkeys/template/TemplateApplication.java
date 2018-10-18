@@ -1,12 +1,12 @@
-package com.codemonkeys.apm;
+package com.codemonkeys.template;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApmApplication {
+public class TemplateApplication {
 
   public static void main(String[] args) {
-    SpringApplication.run(ApmApplication.class, args);
+    SpringApplication.run(TemplateApplication.class, args);
   }
 }
