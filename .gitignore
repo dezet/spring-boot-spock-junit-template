@@ -23,3 +23,12 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+.mvn
+mvnw
+mvnw.cmd
+log/
+target/
+
+# Mac
+.DS_Store
